@@ -48,3 +48,35 @@
 
 2021-12-08/21:06:41		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
 
+2021-12-22/17:54:15		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2021-12-22/18:05:45		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2021-12-22/19:06:08		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2021-12-22/19:08:43		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2021-12-22/21:14:10		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2021-12-22/21:19:58		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 591
+
+2022-01-21/23:08:03		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2022-01-22/20:40:45		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 591
+
+2022-01-22/20:46:21		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2022-01-22/20:48:57		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2022-01-22/20:51:18		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2022-01-22/20:56:40		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2022-01-22/20:57:57		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2022-01-22/21:07:44		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+2022-01-22/22:54:59		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 591
+
+2022-01-22/22:55:07		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 591
+
